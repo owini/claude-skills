@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://github.com/travisvn/awesome-claude-skills">
-    <img alt="Awesome Claude Skills" src="https://pc0o4oduww.ufs.sh/f/crfz5GypRfo0lI4924gMSJKLY6297aVP0zZpilXBvqTbDyrs"/>
-  </a>
-</p>
-
-# Awesome Claude Skills
+#  Claude Skills
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Last Updated](https://img.shields.io/badge/updated-Feb%202026-green.svg)]()
