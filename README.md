@@ -1,6 +1,6 @@
 #  Claude Skills
 
-> A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+### A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 **Claude Skills** teach Claude how to **perform tasks in a repeatable way**
 
